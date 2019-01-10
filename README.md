@@ -6,8 +6,6 @@ It demonstrates the use of Angular 2 for the front-end and connects to a Web API
 As a result, the front-end scripting is written in TypeScript. 
 This solution doesn't bring any warnings from the compiler or Resharper.
 
-The solution has been deployed to http://iasset.azurewebsites.net
-
 
 Requirements:
 1. Visual Studio 2015
